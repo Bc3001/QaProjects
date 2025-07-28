@@ -18,7 +18,7 @@ JMeter (Stress/load testing)
 
 Dead Link Checker (Broken link detection)
 
-🎯 Outcome & Recommendations
+Outcome & Recommendations
 Identified broken or malformed URLs, excessive requests, and Wix system assets that generate errors.
 
 Recommended reducing redundant asset calls, optimizing Wix settings, and adding retry logic for failed API calls.
